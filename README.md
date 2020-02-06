@@ -21,4 +21,4 @@
  	
 Работа выполнена при финансовой поддержке РФФИ, проект № 16-31-00055-мол-а
 
-![Пример работы](https://github.com/blinoff33/BoundedRemainderSet/blob/master/BoundedRemainderSet.UI/src/images/brset.png)
+![Пример работы](/BoundedRemainderSet.UI/src/images/brset.png)
