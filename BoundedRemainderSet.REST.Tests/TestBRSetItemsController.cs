@@ -7,9 +7,9 @@ using System.Net.Http;
 using System.Web.Http.Hosting;
 using System.Net;
 using System.Collections.Generic;
-using BoundedRemainderSet.REST.Models;
 using System.Windows;
 using System.Web.Http.Results;
+using BoundedRemainderSet.Entities;
 
 namespace BoundedRemainderSet.REST.Tests
 {

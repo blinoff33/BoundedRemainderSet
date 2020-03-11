@@ -100,6 +100,10 @@
       <Project>{B0C0FF52-D34B-4616-B8D0-15AE21D0247C}</Project>
       <Name>BoundedRemainderSet.REST</Name>
     </ProjectReference>
+    <ProjectReference Include="..\BoundedRemainderSet\BoundedRemainderSet.csproj">
+      <Project>{A3595DBE-A7F1-4DAA-8999-62E3A660304C}</Project>
+      <Name>BoundedRemainderSet</Name>
+    </ProjectReference>
   </ItemGroup>
   <Choose>
     <When Condition="'$(VisualStudioVersion)' == '10.0' And '$(IsCodedUITest)' == 'True'">
